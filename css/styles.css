@@ -215,6 +215,10 @@ audio{
     text-align: center;
     justify-content: center;
     border: 2px red solid;
+    display: none;
+}
+#button-div{
+    text-align: center;
 }
 
 img {
