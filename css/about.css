@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Kumar+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Kumar One", serif;
+    background: url("https://t4.ftcdn.net/jpg/06/30/90/99/360_F_630909929_xHWmhNMPob3F5JDJE9Cfdjg6d80WBv6S.jpg");
+    background-size: cover;
+}
